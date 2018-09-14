@@ -26,4 +26,4 @@
 
 10.0 Pega um café e espera de 1hr até 24hrs. (pode ser antes)
 
-11. Abra o phpMyAdmin para ajustar a URL em wp_options adicionando "https"
+11. Depois que o SSL estiver funcionando abra o phpMyAdmin para ajustar a URL em wp_options adicionando "https"
