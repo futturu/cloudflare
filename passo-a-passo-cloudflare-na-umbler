@@ -1,0 +1,25 @@
+1. Fazer backup dos arquivos e banco de dados
+
+2. Criar conta no Cloudflare e confirme seu e-mail 
+2.1 Add your site
+2.2 Use essas dicas para configurar parcialmente, só deixa a parte do Crypto para o final https://help.umbler.com/hc/pt-br/articles/115002823626-Dicas-de-configura%C3%A7%C3%A3o-CloudFlare
+2.3 Escolher plano FREE
+
+3. Verificar as antigas e adicionar no Cloudflare as entradas de DNS que estão faltando
+
+4. Atualizar e Desativar os plugins do WordPress
+4.1 Instalar o plugin da Cloudflare
+
+5. Integrar o plugin obtendo a API key no site da Cloudflare
+5.1 Ative Automatic Cache Management e aperte em Apply em Optimize Cloudflare for WordPress
+
+6. Troque os DNS para os da Cloudflare
+6.1 Espere uns 10 minutos e verifique se já foi alterado em Overview
+
+7. Destative o SSL antigo
+
+8. Abra o phpmyadmin para ajustar a URL em wp_options adicionando "www."
+8.1 Ativar os plugins
+
+9. Ative em Crypto as opções Always use HTTPS e Automatic HTTPS Rewrites
+9.1 Ir no plugin e apertar em Apply
