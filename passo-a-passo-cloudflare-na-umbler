@@ -18,7 +18,7 @@
 
 7. Destative o SSL antigo
 
-8. Abra o phpmyadmin para ajustar a URL em wp_options adicionando "www."
+8. Abra o phpMyAdmin para ajustar a URL em wp_options adicionando "www."
 8.1 Ativar os plugins
 
 9. Ative em Crypto as opções Always use HTTPS e Automatic HTTPS Rewrites
