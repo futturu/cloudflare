@@ -16,7 +16,7 @@
 6. Troque os DNS para os da Cloudflare
 6.1 Espere uns 10 minutos e verifique se já foi alterado em Overview
 
-7. Destative o SSL antigo
+7. Desative o SSL antigo
 
 8. Abra o phpMyAdmin para ajustar a URL em wp_options adicionando "www."
 8.1 Ativar os plugins
